@@ -4,9 +4,9 @@
  <h1 align="center"> 📝 Summary </h1>
 
 </br>
-Aiming for Data Scientist
-CNN and RNN
-분야: 의료영상 <classification, segmentation, detection>, 추천 서비스, 챗봇
+-Aiming for Data Scientist
+-CNN and RNN
+-분야: 의료영상 <classification, segmentation, detection>, 추천 서비스
 
 
 
