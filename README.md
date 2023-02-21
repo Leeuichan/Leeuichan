@@ -5,9 +5,7 @@
 
 </br>
 
--Aiming for Data Scientist<br/>
--CNN and RNN<br/>
--분야: 의료영상 <classification, segmentation, detection>, 추천 서비스
+
 
 
 
